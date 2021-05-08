@@ -27,7 +27,13 @@
 
 <h1 align="center">- Historicos de projetos -</h1>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaltazarSegatto1998 &count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
-</p>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaltazarSegatto1998&show_icons=true&theme=radical)
+ 
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaltazarSegatto1998&repo=github-readme-stats)](https://github.com/BaltazarSegatto1998/BaltazarSegatto1998)
+
+
+
+
 
