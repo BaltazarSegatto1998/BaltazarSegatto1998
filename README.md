@@ -30,8 +30,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaltazarSegatto1998&show_icons=true&theme=radical)
  
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaltazarSegatto1998&repo=github-readme-stats)](https://github.com/BaltazarSegatto1998/BaltazarSegatto1998)
+
 
 
 
