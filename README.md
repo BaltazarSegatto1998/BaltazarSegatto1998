@@ -1,11 +1,33 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<h1> Olá, bem vindo ao meu perfil!</h1>
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+<p>Me chamo <strong>Sidnei Baltazar Segatto Junior</strong> tenho <strong>23 anos</strong></p>
+<p>Estudando Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
+<h3>Desenvolvedor Front-end.</h3> 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<h1>Tecnologias e ferramentas: </h1>
+
+<p class="row">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30px">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px">
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2YabLAGOiQGNduxjMpkPLwAAAA%26pid%3DApi&f=1" height="33">
+</p> 
+
+<h1>Meus contatos: </h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-prado-veltroni-3671971b3/)](https://www.linkedin.com/in/luiz-eduardo-prado-veltroni-3671971b3/)
+<a href="https://api.whatsapp.com/send?phone=5515981897613" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515981897613"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoveltroni@hotmail.com)](mailto:eduardoveltroni@hotmail.com) 
+
+
+<h1 align="center">- Historicos de projetos -</h1>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+</p>
+
