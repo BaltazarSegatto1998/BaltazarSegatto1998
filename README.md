@@ -28,6 +28,6 @@
 <h1 align="center">- Historicos de projetos -</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SidneiBaltazar1998&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BaltazarSegatto1998 &count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
 </p>
 
