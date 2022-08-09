@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=44997210457"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:sidneibaltazarfrontend@gmail.com)](mailto:sidneibaltazarfrontend@gmail.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaltazarSegatto1998&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
@@ -35,6 +33,10 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaltazarSegatto1998&show_icons=true&theme=radical)
  
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaltazarSegatto1998&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
