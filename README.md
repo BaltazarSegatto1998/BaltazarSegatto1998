@@ -2,8 +2,8 @@
 
 <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
-<p>Me chamo <strong>Sidnei Baltazar Segatto Junior</strong> tenho <strong>23 anos</strong></p>
-<p>Estudando Análise e Desenvolvimento de Sistemas. <br>
+<p>Me chamo <strong>Sidnei Baltazar Segatto Junior</strong> tenho <strong>24 anos</strong></p>
+<p>Formação em Análise e Desenvolvimento de Sistemas. <br>
 </p>
 <h3>Desenvolvedor Front-end.</h3> 
 
