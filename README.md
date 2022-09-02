@@ -16,7 +16,9 @@
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
    <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" height="33">
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="33">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2YabLAGOiQGNduxjMpkPLwAAAA%26pid%3DApi&f=1" height="40">
+   <img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height="40">
 </p> 
 
 <h1>Meus contatos: </h1>
