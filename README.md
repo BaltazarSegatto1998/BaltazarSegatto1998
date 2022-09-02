@@ -15,6 +15,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px">
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
+   <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" height="33">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2YabLAGOiQGNduxjMpkPLwAAAA%26pid%3DApi&f=1" height="40">
 </p> 
 
