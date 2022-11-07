@@ -3,8 +3,12 @@
 <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
 <p>Me chamo <strong>Sidnei Baltazar Segatto Junior</strong> tenho <strong>24 anos</strong></p>
-<strong>Graduado em Análise e Desenvolvimento de Sistemas. | Pós graduação:Engenharia de softwaree <br>
+<strong>Graduado em Análise e Desenvolvimento de Sistemas. 
 </strong>
+<br>
+<strong>
+  Pós graduação:Engenharia de software
+ </strong>
 <h3>Desenvolvedor Front-end.</h3> 
 
 <h1>Tecnologias e ferramentas: </h1>
